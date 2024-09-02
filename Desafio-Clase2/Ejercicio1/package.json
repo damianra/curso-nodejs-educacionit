@@ -1,0 +1,14 @@
+{
+  "name": "Ejercicio1",
+  "version": "1.0.0",
+  "description": "Desafio Clase 2 Ejercicio 01 curso NodeJS - EducacionIT",
+  "main": "servidor.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon servidor.mjs"
+  },
+  "keywords": [],
+  "author": "Damian Ramirez",
+  "license": "ISC"
+}
